@@ -1,0 +1,2 @@
+"""StudyVault AI desktop application."""
+
